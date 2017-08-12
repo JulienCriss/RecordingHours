@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A7E1B69-54C4-4D5F-BE22-203E3B3D009F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proiect_PSBD</RootNamespace>
+    <AssemblyName>Proiect PSBD</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=2.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAdaugaAngajat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdaugaAngajat.Designer.cs">
+      <DependentUpon>FormAdaugaAngajat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdaugaPontaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdaugaPontaj.Designer.cs">
+      <DependentUpon>FormAdaugaPontaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAngajat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAngajat.Designer.cs">
+      <DependentUpon>FormAngajat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditareAngajat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditareAngajat.Designer.cs">
+      <DependentUpon>FormEditareAngajat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditeazaPontaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditeazaPontaj.Designer.cs">
+      <DependentUpon>FormEditeazaPontaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoAngajat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoAngajat.Designer.cs">
+      <DependentUpon>FormInfoAngajat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoSalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoSalar.Designer.cs">
+      <DependentUpon>FormInfoSalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStadiuProiecte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStadiuProiecte.Designer.cs">
+      <DependentUpon>FormStadiuProiecte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyOracleConnection.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAdaugaAngajat.resx">
+      <DependentUpon>FormAdaugaAngajat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdaugaPontaj.resx">
+      <DependentUpon>FormAdaugaPontaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAngajat.resx">
+      <DependentUpon>FormAngajat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditareAngajat.resx">
+      <DependentUpon>FormEditareAngajat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditeazaPontaj.resx">
+      <DependentUpon>FormEditeazaPontaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoAngajat.resx">
+      <DependentUpon>FormInfoAngajat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoSalar.resx">
+      <DependentUpon>FormInfoSalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStadiuProiecte.resx">
+      <DependentUpon>FormStadiuProiecte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\logo PSBD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\add_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\banner_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\banner_bgk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\edit_file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\add_file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Folder User.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

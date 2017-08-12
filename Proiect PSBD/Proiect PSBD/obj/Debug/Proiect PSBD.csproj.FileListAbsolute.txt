@@ -1,0 +1,37 @@
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAdmin.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.LoginForm.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.csproj.GenerateResource.Cache
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Proiect PSBD.exe.config
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Proiect PSBD.exe
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Proiect PSBD.pdb
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.Properties.Resources.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.exe
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.pdb
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.csprojResolveAssemblyReference.cache
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAngajat.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAdaugaPontaj.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormEditeazaPontaj.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormStadiuProiecte.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormInfoAngajat.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAdaugaAngajat.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormEditareAngajat.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Proiect PSBD.exe.config
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.exe
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.pdb
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Proiect PSBD.exe
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Proiect PSBD.pdb
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.csprojResolveAssemblyReference.cache
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAdaugaAngajat.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAdaugaPontaj.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAdmin.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormAngajat.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormEditareAngajat.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormEditeazaPontaj.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormInfoAngajat.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormStadiuProiecte.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.LoginForm.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.Properties.Resources.resources
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect PSBD.csproj.GenerateResource.Cache
+C:\Users\ROG\Desktop\PSBD\Proiect PSBD\Proiect PSBD\obj\Debug\Proiect_PSBD.FormInfoSalar.resources
